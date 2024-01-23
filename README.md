@@ -15,7 +15,7 @@
 
 <br/>
 
-## Screenshots  
+## Screenshot
 
 
 <p float="left">
